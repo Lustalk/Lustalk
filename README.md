@@ -1,6 +1,6 @@
 # Hi there, I'm Lucas Lustosa 👋
 
-### Python Developer and Automation Specialist Focused on Financial Markets and Quant Trading
+### Python Developer and Automation Focused on Financial Markets and Quant Trading
 
 I’m a developer passionate about leveraging **Python**, **data analysis**, and **automation** to build innovative solutions for the **financial market and Quant Trading**. Actively seeking opportunities to apply my technical expertise in creating efficient, data-driven systems. Open to new challenges!
 
