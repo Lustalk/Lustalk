@@ -37,25 +37,19 @@ Utilizo ferramentas como **VectorBT**, **yfinance** e **Streamlit** para desenvo
 
 ## 🛠️ Technologies and Tools
 
-My skill set is tailored for financial data analysis, algorithmic trading, and scalable system development, with a focus on Python and DevOps practices.
+My skill set is tailored for data analysis, machine learning, and scalable system development, with a focus on Python and DevOps practices.
 
 #### Python & Data Science Stack
 * **Programming Language:**
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+    ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 * **Data Analysis & Numerical Computing:**
-  ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-  ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+    ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+    ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 * **Machine Learning & Optimization:**
-  ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-  ![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
-* **Web Apps & Dashboards:**
-  ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-* **Financial Analysis & Algorithmic Trading:**
-  ![VectorBT](https://img.shields.io/badge/VectorBT-171B21?style=for-the-badge)
-  ![yfinance](https://img.shields.io/badge/yfinance-0.2-blue?style=for-the-badge)
-  ![CCXT](https://img.shields.io/badge/CCXT-4.0-orange?style-for-the-badge)
+    ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+    ![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
 * **Databases:**
-  ![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style-for-the-badge&logo=duckdb&logoColor=black)
+    ![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=for-the-badge&logo=duckdb&logoColor=black)
 
 #### Platforms & DevOps
 | Backend & Databases | DevOps & Deployment |
@@ -63,11 +57,11 @@ My skill set is tailored for financial data analysis, algorithmic trading, and s
 | ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) |
 
 ### Areas of Expertise:
-* Developing and backtesting quantitative trading strategies with **Python (Pandas, VectorBT)**.
-* Creating real-time financial dashboards with **Streamlit** and **CCXT**.
-* Containerizing applications with **Docker** for scalable, reproducible deployments.
-* Managing backend systems and databases with **Supabase** for financial applications.
-* Automating data pipelines for market analysis and trading workflows.
+* Data manipulation and analysis with **Python (Pandas, NumPy)**.
+* Application of **Machine Learning (Scikit-learn)** algorithms.
+* Containerizing applications with **Docker** for scalable deployments.
+* Managing backend systems and databases with **Supabase**.
+* Developing data pipelines.
 
 ---
 
