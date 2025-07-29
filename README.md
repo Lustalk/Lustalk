@@ -1,16 +1,16 @@
-# Hi there, I'm Lucas Lustosa 👋
+# 🚀 Hi there, I'm Lucas Lustosa!
 
-### Python Developer and Automation Focused on Financial Markets and Quant Trading
+### Python Developer & Data Scientist in Career Transition
 
-I’m a developer passionate about leveraging **Python**, **data analysis**, and **automation** to build innovative solutions for the **financial market and Quant Trading**. Actively seeking opportunities to apply my technical expertise in creating efficient, data-driven systems. Open to new challenges!
+I'm currently transitioning my career, focusing on applying my knowledge in **Python**, **data science**, and **automation** to build innovative solutions. I'm seeking opportunities to leverage my technical expertise in efficient, data-driven systems. Open to new challenges!
 
 ---
 
 ## 👨‍💻 About Me
 
-My journey started in engineering, where I first discovered my passion for programming. In 2021, freelancing in web development reignited my drive to create scalable digital solutions, leading me to focus on software development. Today, I specialize in **Quant Trading and financial automation**, combining my skills in **Python**, **data analysis**, and **system architecture** to develop tools that optimize financial strategies.
+My journey began in engineering, where I first discovered my passion for programming. In 2021, freelancing in web development reignited my drive to create scalable digital solutions, leading me to focus on software development. Currently, I'm deepening my expertise in **Data Science**, combining my skills in **Python**, **data analysis**, and **system architecture** to solve complex problems and optimize processes.
 
-I’m committed to building robust solutions using tools like **VectorBT**, **yfinance**, and **Streamlit**, with a strong focus on algorithmic trading and financial data analysis. Open to new opportunities!
+I'm committed to building robust solutions using tools like **Pandas**, **NumPy**, and **Scikit-learn**, with a strong focus on data analysis, manipulation, machine learning, and automation.
 
 ---
 
@@ -19,9 +19,9 @@ I’m committed to building robust solutions using tools like **VectorBT**, **yf
 
 ## 👨‍💻 Sobre Mim
 
-Minha trajetória começou na engenharia, onde a programação despertou meu interesse. Em 2021, ao atuar como freelancer em desenvolvimento web, reacendi minha paixão por criar soluções digitais escaláveis, direcionando meu foco para desenvolvimento de software. Hoje, especializo-me em **Quant Trading e automação financeira**, combinando habilidades em **Python**, **análise de dados** e **arquitetura de sistemas** para criar ferramentas que otimizam estratégias financeiras.
+Minha trajetória começou na engenharia, onde a programação despertou meu interesse. Em 2021, ao atuar como freelancer em desenvolvimento web, reacendi minha paixão por criar soluções digitais escaláveis, direcionando meu foco para desenvolvimento de software. Atualmente, estou aprofundando meus estudos em **Ciência de Dados**, combinando habilidades em **Python**, **análise de dados** e **arquitetura de sistemas** para resolver problemas complexos e otimizar processos.
 
-Utilizo ferramentas como **VectorBT**, **yfinance** e **Streamlit** para desenvolver soluções robustas, com foco em trading algorítmico e análise de dados financeiros. Aberto a novas oportunidades!
+Utilizo ferramentas como **Pandas**, **NumPy** e **Scikit-learn** para desenvolver soluções robustas, com foco em análise e manipulação de dados, aprendizado de máquina e automação.
 
 </details>
 
@@ -29,9 +29,9 @@ Utilizo ferramentas como **VectorBT**, **yfinance** e **Streamlit** para desenvo
 
 ## 🎯 My Current Focus and Goals
 
-* 🚀 **Career Transition:** Seeking a **full-time** role as a Python Developer, Automation Engineer, or Quant Developer in the financial sector.
-* 💡 **Special Interest:** Building data-driven solutions for **Quant Trading and financial markets**, leveraging automation, machine learning, and real-time data analysis.
-* 🌱 **Continuous Learning:** Expanding expertise in algorithmic trading, financial modeling, and cloud-based system architecture.
+* 🚀 **Career Transition:** Seeking a **full-time** role as a Python Developer or Data Scientist.
+* 💡 **Primary Interest:** Building data-driven solutions, leveraging automation and machine learning.
+* 🌱 **Continuous Learning:** Expanding expertise in data modeling, machine learning algorithms, and system architecture.
 
 ---
 
@@ -65,22 +65,43 @@ My skill set is tailored for data analysis, machine learning, and scalable syste
 
 ---
 
-## 📈 Featured Projects and Experience
+## 📚 My Studies and Education
 
-**Quantitative Trading Strategy Backtester**  
-* Built a backtesting tool using **VectorBT** and **yfinance** to evaluate trading strategies, optimizing parameters for stock market performance based on historical data.
+I am currently immersed in an intensive **Data Science** program, which provides me with a strong foundation in Python, statistical analysis, machine learning, and data engineering.
 
-**Real-Time Financial Dashboard**  
-* Developed an interactive dashboard with **Streamlit** for real-time market data visualization, integrating **CCXT** for exchange data and **Pandas** for analysis.
+### Program Content:
 
-**Web Development for Ralph Gracie San Francisco ([ralphgracie.com](https://ralphgracie.com/)) (Mar/2022 - Present)**  
-* Created a scalable website with a custom e-commerce platform using **HTML5** and **CSS3**, providing ongoing technical support.
+#### Python Fundamentals and Data Manipulation
+* **Python Basics:** Variables, data types, arithmetic operations, strings, lists, loops, and conditionals.
+* **Data Structures:** Dictionaries and custom functions for flexible code.
+* **Introduction to Pandas:** Data manipulation, preprocessing, and initial analysis.
+* **Data Handling:** Dealing with missing and duplicate values, filtering, visualization, and feature engineering.
+
+#### Statistical Analysis and Development Tools
+* **Descriptive Statistics and Probability:** Initial data analysis, pattern identification, and hypothesis testing.
+* **Software Development Tools:** Command line, programming environments, Git, and GitHub.
+* **Intermediate Python:** Deepening understanding of advanced language concepts.
+
+#### Data Collection and Storage (SQL)
+* **Data Extraction:** Collecting data from online resources.
+* **SQL:** Basic and advanced queries for data manipulation and analysis in relational databases.
+
+#### Machine Learning
+* **Introduction to Machine Learning:** Building and evaluating models with `scikit-learn`.
+* **Supervised Learning:** Model optimization, classification and regression metrics, handling imbalanced data.
+* **Machine Learning for Business:** Business metrics, A/B testing, bootstrapping, and data labeling.
+* **Linear Algebra:** Vectors, matrices, and linear regression for a deeper understanding of algorithms.
+* **Numerical Methods:** Gradient descent, gradient boosting, and an introduction to neural networks.
+* **Time Series:** Trend analysis, seasonality, and forecasting.
+* **Machine Learning for Text:** Vectorization, TF-IDF, word embedding, and BERT.
+* **Computer Vision:** Convolutional neural networks and Deep Learning with Keras.
+* **Unsupervised Learning:** Clustering and anomaly detection.
 
 ---
 
 ## 📫 Let's Connect!
 
-I’m open to opportunities in **Quant Trading**, **financial automation**, or **software development**. If my skills align with your team’s goals, let’s connect!
+I'm open to opportunities as a **Data Scientist**, **Python Developer**, or in areas involving **data analysis and automation**. If my skills align with your team's goals, let's connect!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style-for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-lustosa-91969b105)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style-for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-lustosa-91969b105)
 [![Email](https://img.shields.io/badge/Email-D14836?style-for-the-badge&logo=gmail&logoColor=white)](mailto:lpl.lustosa@gmail.com)
