@@ -80,42 +80,6 @@ Minhas especialidades:
 ![Webhooks](https://img.shields.io/badge/Webhooks-4A154B?style=for-the-badge)
 ![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
 
----
-
-## 💼 Professional Experience
-
-### **Kanab System** — *Marketing Automation & AI Specialist (Freelance)*  
-`Remote – Lisbon, PT` | *May 2025 – Present*
-- Designed & deployed **serverless ETL pipeline** in **N8N** for customer birthday automation
-- Built **RAG-based AI chatbot** with **Voiceflow + Manychat** (Knowledge Base integration)
-- Owned **full system integration** via **REST API, Webhooks, JSON**
-
-### **Ralph Gracie San Francisco** — *Web Developer & IT Support Specialist*  
-`Remote – San Francisco, US` | *Mar 2022 – Present*
-- Built **institutional site (Framer)** + **e-commerce store (Shopify)** from scratch
-- Primary technical contact for **Google Workspace, Shopify, GA4, analytics reporting**
-- Deliver **monthly business reports** via manual data consolidation (GA4, Shopify, Framer)
-
-### **Clínica de Saúde Hera** — *Co-Founder & Business Operations Manager*  
-`Rio de Janeiro, BR` | *May 2019 – Jul 2021*
-- Co-founded patient-centered holistic health clinic
-- Managed **B2B partnerships, CRM, community outreach**
-
----
-
-## 📚 Education & Continuous Learning
-
-### **TripleTen Brasil** — *Data Science Bootcamp*  
-`Remote` | *Jul 2025 – Feb 2026 (Expected)*
-> **Focus:** Python, SQL, AWS, Data Pipelines, ML for Business  
-> **Goal:** Build production-grade data workflows to power marketing automation
-
-### **UNICESUMAR** — *Tecnólogo em Análise e Desenvolvimento de Sistemas*  
-`Rio de Janeiro, BR` | *Feb 2020 – Dec 2022*  
-> Focus: Analytics, Business Intelligence, Statistical Methods
-
----
-
 ## 🌍 Languages
 - **Português** (Native)  
 - **English** (Fluent – Professional Proficiency)  
@@ -133,7 +97,6 @@ Looking for **remote opportunities** in:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-lustosa-91969b105)  
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lpl.lustosa@gmail.com)  
-[![CV Download](https://img.shields.io/badge/CV-PDF-brightgreen?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/yourusername/yourusername/blob/main/Lucas_Lustosa_CV_2025_Eng.pdf)
 
 ---
 
