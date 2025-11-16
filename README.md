@@ -8,7 +8,7 @@
 
 ## 👨‍💹 About Me
 
-I'm a **Senior Marketing Automation Specialist** with deep expertise in **No-Code/Low-Code iPaaS**, **API integrations**, and **MarTech systems**. My career began as a co-founder of a health clinic, where I learned how **data drives real business impact**. That insight fuels everything I do today.
+I'm a ** Marketing Automation Specialist** with deep expertise in **No-Code/Low-Code iPaaS**, **API integrations**, and **MarTech systems**. My career began as a co-founder of a health clinic, where I learned how **data drives real business impact**. That insight fuels everything I do today.
 
 Now, I'm **transitioning into Data Engineering & Automation Engineering**, currently enrolled in a **Data Science Bootcamp (TripleTen)** to master **Python, SQL, AWS, and data pipelines** — not to become a pure data scientist, but to **supercharge automation with intelligent, data-backed workflows**.
 
